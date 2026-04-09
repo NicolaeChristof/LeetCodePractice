@@ -1,0 +1,17 @@
+# Build Directories
+[Dd]ebug/
+[Rr]elease/
+
+# Executables and Symbols
+*.exe
+*.exe.recipe
+*.idb
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+
+# Visual Studio
+.vs/
+*.user
