@@ -9,16 +9,16 @@ struct TreeNode {
     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
 };
 
-void SwapLeftAndRight(TreeNode* root)
-{
-    TreeNode* temp = root->left;
-    root->left = root->right;
-    root->right = temp;
-}
-
 class Solution
 {
 public:
+    void SwapLeftAndRight(TreeNode* root)
+    {
+        TreeNode* temp = root->left;
+        root->left = root->right;
+        root->right = temp;
+    }
+
     TreeNode* invertTree(TreeNode* root)
     {
         if (!root) return nullptr;
