@@ -39,5 +39,11 @@
     <ClCompile Include="source\ValidAnagram.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\BinarySearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\FloodFill.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

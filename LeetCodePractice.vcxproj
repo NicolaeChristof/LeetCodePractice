@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="source\BestTimeToBuyAndSellStock.cpp" />
+    <ClCompile Include="source\BinarySearch.cpp" />
+    <ClCompile Include="source\FloodFill.cpp" />
     <ClCompile Include="source\InvertBinaryTree.cpp" />
     <ClCompile Include="source\Main.cpp" />
     <ClCompile Include="source\MergeTwoSortedLists.cpp" />
