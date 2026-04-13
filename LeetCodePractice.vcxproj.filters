@@ -57,5 +57,8 @@
     <ClCompile Include="source\ImplementQueueUsingStacks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\FirstBadVersion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
