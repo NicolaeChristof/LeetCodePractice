@@ -136,6 +136,7 @@
     <ClCompile Include="source\ImplementQueueUsingStacks.cpp" />
     <ClCompile Include="source\InvertBinaryTree.cpp" />
     <ClCompile Include="source\LinkedListCycle.cpp" />
+    <ClCompile Include="source\LongestPalindrome.cpp" />
     <ClCompile Include="source\LowestCommonAncestorOfABinarySearchTree.cpp" />
     <ClCompile Include="source\Main.cpp" />
     <ClCompile Include="source\MergeTwoSortedLists.cpp" />
