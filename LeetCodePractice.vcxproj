@@ -141,6 +141,7 @@
     <ClCompile Include="source\Main.cpp" />
     <ClCompile Include="source\MergeTwoSortedLists.cpp" />
     <ClCompile Include="source\RansomNote.cpp" />
+    <ClCompile Include="source\ReverseLinkedList.cpp" />
     <ClCompile Include="source\TwoSum.cpp" />
     <ClCompile Include="source\ValidAnagram.cpp" />
     <ClCompile Include="source\ValidPalindrome.cpp" />
