@@ -139,6 +139,7 @@
     <ClCompile Include="source\LongestPalindrome.cpp" />
     <ClCompile Include="source\LowestCommonAncestorOfABinarySearchTree.cpp" />
     <ClCompile Include="source\Main.cpp" />
+    <ClCompile Include="source\MajorityElement.cpp" />
     <ClCompile Include="source\MergeTwoSortedLists.cpp" />
     <ClCompile Include="source\RansomNote.cpp" />
     <ClCompile Include="source\ReverseLinkedList.cpp" />
