@@ -132,6 +132,7 @@
     <ClCompile Include="source\BestTimeToBuyAndSellStock.cpp" />
     <ClCompile Include="source\BinarySearch.cpp" />
     <ClCompile Include="source\ClimbingStairs.cpp" />
+    <ClCompile Include="source\DiameterOfBinaryTree.cpp" />
     <ClCompile Include="source\FirstBadVersion.cpp" />
     <ClCompile Include="source\FloodFill.cpp" />
     <ClCompile Include="source\ImplementQueueUsingStacks.cpp" />
