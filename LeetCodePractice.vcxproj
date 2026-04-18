@@ -142,6 +142,7 @@
     <ClCompile Include="source\LowestCommonAncestorOfABinarySearchTree.cpp" />
     <ClCompile Include="source\Main.cpp" />
     <ClCompile Include="source\MajorityElement.cpp" />
+    <ClCompile Include="source\MaximumDepthOfBinaryTree.cpp" />
     <ClCompile Include="source\MergeTwoSortedLists.cpp" />
     <ClCompile Include="source\MiddleOfTheLinkedList.cpp" />
     <ClCompile Include="source\RansomNote.cpp" />
