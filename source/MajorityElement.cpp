@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/majority-element
 #include <vector>
-
 #include <unordered_map>
 
 class Solution

@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/two-sum
 #include <vector>
-
 #include <unordered_map>
 
 // One pass hashMap solution

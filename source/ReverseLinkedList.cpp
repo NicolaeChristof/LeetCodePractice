@@ -1,6 +1,4 @@
 // https://leetcode.com/problems/reverse-linked-list
-#include <iostream>
-
 // Definition for singly-linked list.
 struct ListNode {
     int val;

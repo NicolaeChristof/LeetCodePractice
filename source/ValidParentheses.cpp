@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/valid-parentheses
 #include <string>
-
 #include <stack>
 #include <unordered_map>
 

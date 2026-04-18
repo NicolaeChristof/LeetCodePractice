@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/longest-palindrome
 #include <string>
-
 #include <unordered_map>
 
 class Solution

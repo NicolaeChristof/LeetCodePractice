@@ -1,6 +1,5 @@
 // https://leetcode.com/problems/contains-duplicate
 #include <vector>
-
 #include <unordered_set>
 
 class Solution
