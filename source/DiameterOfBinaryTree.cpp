@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/diameter-of-binary-tree
 #include <algorithm>
 
-//Definition for a binary tree node.
+// Definition for a binary tree node.
 struct TreeNode {
     int val;
     TreeNode *left;
