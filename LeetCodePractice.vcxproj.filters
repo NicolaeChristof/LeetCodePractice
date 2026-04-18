@@ -90,5 +90,8 @@
     <ClCompile Include="source\ContainsDuplicates.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\MaximumSubarray.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
