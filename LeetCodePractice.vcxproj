@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="source\01Matrix.cpp" />
     <ClCompile Include="source\AddBinary.cpp" />
     <ClCompile Include="source\BalencedBinaryTree.cpp" />
     <ClCompile Include="source\BestTimeToBuyAndSellStock.cpp" />

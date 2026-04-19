@@ -93,5 +93,11 @@
     <ClCompile Include="source\MaximumSubarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\InsertInterval.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\01Matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
