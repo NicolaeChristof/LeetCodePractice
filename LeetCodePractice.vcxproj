@@ -143,6 +143,7 @@
     <ClCompile Include="source\KClosestPointsToOrigin.cpp" />
     <ClCompile Include="source\LinkedListCycle.cpp" />
     <ClCompile Include="source\LongestPalindrome.cpp" />
+    <ClCompile Include="source\LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="source\LowestCommonAncestorOfABinarySearchTree.cpp" />
     <ClCompile Include="source\Main.cpp" />
     <ClCompile Include="source\MajorityElement.cpp" />
