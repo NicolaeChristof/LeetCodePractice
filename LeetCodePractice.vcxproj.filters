@@ -105,5 +105,11 @@
     <ClCompile Include="source\LongestSubstringWithoutRepeatingCharacters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\3Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="source\BinaryTreeLevelOrderTraversal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
