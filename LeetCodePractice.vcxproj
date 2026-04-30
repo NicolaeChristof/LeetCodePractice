@@ -143,6 +143,7 @@
     <ClCompile Include="source\FirstBadVersion.cpp" />
     <ClCompile Include="source\FloodFill.cpp" />
     <ClCompile Include="source\ImplementQueueUsingStacks.cpp" />
+    <ClCompile Include="source\ImplementTriePrefixTree.cpp" />
     <ClCompile Include="source\InsertInterval.cpp" />
     <ClCompile Include="source\InvertBinaryTree.cpp" />
     <ClCompile Include="source\KClosestPointsToOrigin.cpp" />
