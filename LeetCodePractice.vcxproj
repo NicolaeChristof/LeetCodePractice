@@ -164,6 +164,7 @@
     <ClCompile Include="source\ReverseLinkedList.cpp" />
     <ClCompile Include="source\TwoSum.cpp" />
     <ClCompile Include="source\ValidAnagram.cpp" />
+    <ClCompile Include="source\ValidateBinarySearchTree.cpp" />
     <ClCompile Include="source\ValidPalindrome.cpp" />
     <ClCompile Include="source\ValidParentheses.cpp" />
   </ItemGroup>
