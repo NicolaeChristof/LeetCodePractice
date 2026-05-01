@@ -129,5 +129,8 @@
     <ClCompile Include="source\ProductOfArrayExceptSelf.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\MinStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
