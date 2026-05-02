@@ -137,6 +137,7 @@
     <ClCompile Include="source\ClimbingStairs.cpp" />
     <ClCompile Include="source\CloneGraph.cpp" />
     <ClCompile Include="source\CoinChange.cpp" />
+    <ClCompile Include="source\CombinationSum.cpp" />
     <ClCompile Include="source\ContainsDuplicates.cpp" />
     <ClCompile Include="source\CourseSchedule.cpp" />
     <ClCompile Include="source\DiameterOfBinaryTree.cpp" />
