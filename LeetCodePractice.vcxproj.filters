@@ -153,5 +153,8 @@
     <ClCompile Include="source\MergeIntervals.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\LowestCommonAncestorOfABinaryTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

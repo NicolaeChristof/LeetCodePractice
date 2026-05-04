@@ -153,6 +153,7 @@
     <ClCompile Include="source\LongestPalindrome.cpp" />
     <ClCompile Include="source\LongestSubstringWithoutRepeatingCharacters.cpp" />
     <ClCompile Include="source\LowestCommonAncestorOfABinarySearchTree.cpp" />
+    <ClCompile Include="source\LowestCommonAncestorOfABinaryTree.cpp" />
     <ClCompile Include="source\Main.cpp" />
     <ClCompile Include="source\MajorityElement.cpp" />
     <ClCompile Include="source\MaximumDepthOfBinaryTree.cpp" />
