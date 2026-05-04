@@ -161,6 +161,7 @@
     <ClCompile Include="source\MiddleOfTheLinkedList.cpp" />
     <ClCompile Include="source\MinStack.cpp" />
     <ClCompile Include="source\NumberOfIslands.cpp" />
+    <ClCompile Include="source\Permutations.cpp" />
     <ClCompile Include="source\ProductOfArrayExceptSelf.cpp" />
     <ClCompile Include="source\RansomNote.cpp" />
     <ClCompile Include="source\ReverseLinkedList.cpp" />
