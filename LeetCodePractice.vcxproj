@@ -157,6 +157,7 @@
     <ClCompile Include="source\MajorityElement.cpp" />
     <ClCompile Include="source\MaximumDepthOfBinaryTree.cpp" />
     <ClCompile Include="source\MaximumSubarray.cpp" />
+    <ClCompile Include="source\MergeIntervals.cpp" />
     <ClCompile Include="source\MergeTwoSortedLists.cpp" />
     <ClCompile Include="source\MiddleOfTheLinkedList.cpp" />
     <ClCompile Include="source\MinStack.cpp" />

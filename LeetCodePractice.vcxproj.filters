@@ -150,5 +150,8 @@
     <ClCompile Include="source\Permutations.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\MergeIntervals.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
