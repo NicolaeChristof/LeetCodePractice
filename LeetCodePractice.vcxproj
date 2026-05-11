@@ -169,6 +169,7 @@
     <ClCompile Include="source\ReverseLinkedList.cpp" />
     <ClCompile Include="source\RottingOranges.cpp" />
     <ClCompile Include="source\SearchInRotatedSortedArray.cpp" />
+    <ClCompile Include="source\TimeBasedKeyValueStore.cpp" />
     <ClCompile Include="source\TwoSum.cpp" />
     <ClCompile Include="source\ValidAnagram.cpp" />
     <ClCompile Include="source\ValidateBinarySearchTree.cpp" />

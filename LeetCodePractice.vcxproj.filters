@@ -156,5 +156,8 @@
     <ClCompile Include="source\LowestCommonAncestorOfABinaryTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="source\TimeBasedKeyValueStore.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
