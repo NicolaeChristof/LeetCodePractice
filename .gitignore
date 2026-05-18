@@ -1,17 +1,39 @@
 # Build Directories
 [Dd]ebug/
 [Rr]elease/
+x64/
+x86/
+bin/
+obj/
 
-# Executables and Symbols
+# CMake
+out/
+build/
+
+# Executables / Build Output
 *.exe
-*.exe.recipe
+*.dll
+*.lib
+*.exp
 *.idb
 *.pdb
 *.ilk
 *.obj
+*.o
+*.a
+*.so
+*.dylib
+
+# Logs
 *.log
 *.tlog
 
 # Visual Studio
 .vs/
 *.user
+*.VC.db
+*.VC.opendb
+*.suo
+
+# IntelliSense / Browse DB
+*.ipch

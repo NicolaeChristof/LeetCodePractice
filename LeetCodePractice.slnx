@@ -1,7 +1,9 @@
 <Solution>
   <Configurations>
+    <Platform Name="Any CPU" />
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LeetCodePractice.vcxproj" Id="c69dae0b-f894-49ce-a9ef-03f640133117" />
+  <Project Path="CPlusPlusPractice/CPlusPlusPractice.vcxproj" Id="c69dae0b-f894-49ce-a9ef-03f640133117" />
+  <Project Path="CSharpPractice/CSharpPractice.csproj" Id="6a919d78-1af5-470a-bb08-256ec0cc1d3c" />
 </Solution>

@@ -76,6 +76,7 @@
     <ProjectGuid>{c69dae0b-f894-49ce-a9ef-03f640133117}</ProjectGuid>
     <RootNamespace>LeetCodePractice</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>CPlusPlusPractice</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
