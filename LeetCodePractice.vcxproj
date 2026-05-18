@@ -18,6 +18,58 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source\01Matrix.cpp" />
+    <ClCompile Include="source\3Sum.cpp" />
+    <ClCompile Include="source\AccountsMerge.cpp" />
+    <ClCompile Include="source\AddBinary.cpp" />
+    <ClCompile Include="source\BalencedBinaryTree.cpp" />
+    <ClCompile Include="source\BestTimeToBuyAndSellStock.cpp" />
+    <ClCompile Include="source\BinarySearch.cpp" />
+    <ClCompile Include="source\BinaryTreeLevelOrderTraversal.cpp" />
+    <ClCompile Include="source\ClimbingStairs.cpp" />
+    <ClCompile Include="source\CloneGraph.cpp" />
+    <ClCompile Include="source\CoinChange.cpp" />
+    <ClCompile Include="source\CombinationSum.cpp" />
+    <ClCompile Include="source\ContainsDuplicates.cpp" />
+    <ClCompile Include="source\CourseSchedule.cpp" />
+    <ClCompile Include="source\DiameterOfBinaryTree.cpp" />
+    <ClCompile Include="source\EvaluateReversePolishNotation.cpp" />
+    <ClCompile Include="source\FirstBadVersion.cpp" />
+    <ClCompile Include="source\FloodFill.cpp" />
+    <ClCompile Include="source\ImplementQueueUsingStacks.cpp" />
+    <ClCompile Include="source\ImplementTriePrefixTree.cpp" />
+    <ClCompile Include="source\InsertInterval.cpp" />
+    <ClCompile Include="source\InvertBinaryTree.cpp" />
+    <ClCompile Include="source\KClosestPointsToOrigin.cpp" />
+    <ClCompile Include="source\LinkedListCycle.cpp" />
+    <ClCompile Include="source\LongestPalindrome.cpp" />
+    <ClCompile Include="source\LongestSubstringWithoutRepeatingCharacters.cpp" />
+    <ClCompile Include="source\LowestCommonAncestorOfABinarySearchTree.cpp" />
+    <ClCompile Include="source\LowestCommonAncestorOfABinaryTree.cpp" />
+    <ClCompile Include="source\Main.cpp" />
+    <ClCompile Include="source\MajorityElement.cpp" />
+    <ClCompile Include="source\MaximumDepthOfBinaryTree.cpp" />
+    <ClCompile Include="source\MaximumSubarray.cpp" />
+    <ClCompile Include="source\MergeIntervals.cpp" />
+    <ClCompile Include="source\MergeTwoSortedLists.cpp" />
+    <ClCompile Include="source\MiddleOfTheLinkedList.cpp" />
+    <ClCompile Include="source\MinStack.cpp" />
+    <ClCompile Include="source\NumberOfIslands.cpp" />
+    <ClCompile Include="source\Permutations.cpp" />
+    <ClCompile Include="source\ProductOfArrayExceptSelf.cpp" />
+    <ClCompile Include="source\RansomNote.cpp" />
+    <ClCompile Include="source\ReverseLinkedList.cpp" />
+    <ClCompile Include="source\RottingOranges.cpp" />
+    <ClCompile Include="source\SearchInRotatedSortedArray.cpp" />
+    <ClCompile Include="source\SortColors.cpp" />
+    <ClCompile Include="source\TimeBasedKeyValueStore.cpp" />
+    <ClCompile Include="source\TwoSum.cpp" />
+    <ClCompile Include="source\ValidAnagram.cpp" />
+    <ClCompile Include="source\ValidateBinarySearchTree.cpp" />
+    <ClCompile Include="source\ValidPalindrome.cpp" />
+    <ClCompile Include="source\ValidParentheses.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
