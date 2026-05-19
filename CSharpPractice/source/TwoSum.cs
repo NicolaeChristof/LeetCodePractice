@@ -1,21 +1,24 @@
 // https://leetcode.com/problems/two-sum
 using System.Collections.Generic;
 
-public class Solution
+namespace LeetCodePractice.TwoSum
 {
-    public int[] TwoSum(int[] nums, int target)
+    public class Solution
     {
-        Dictionary<int, int> complementMap = new Dictionary<int, int>(nums.Length); // value, index
-        int complement = 0;
-        for (int i = 0; i < nums.Length; ++i)
+        public int[] TwoSum(int[] nums, int target)
         {
-            complement = target - nums[i];
-            if (complementMap.TryGetValue(complement, out int index))
+            Dictionary<int, int> complementMap = new Dictionary<int, int>(nums.Length); // value, index
+            int complement = 0;
+            for (int i = 0; i < nums.Length; ++i)
             {
-                return new int[] { index, i };
+                complement = target - nums[i];
+                if (complementMap.TryGetValue(complement, out int index))
+                {
+                    return new int[] { index, i };
+                }
+                complementMap[nums[i]] = i;
             }
-            complementMap[nums[i]] = i;
+            return Array.Empty<int>();
         }
-        return Array.Empty<int>();
     }
 }
