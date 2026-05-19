@@ -5,13 +5,14 @@
 
 class Solution
 {
+    std::unordered_map<char, char> bracketMap = { { ')', '(' }, { '}', '{' }, { ']', '[' } };
 public:
     bool isValid(std::string s)
     {
-        std::stack<char> stack;
-        std::unordered_map<char, char> hashMap = { { ')', '(' }, { '}', '{' }, { ']', '[' } };
+        if (s.empty()) return true;
 
-        for (const char& c : s)
+        std::stack<char> stack;
+        for (const char c : s)
         {
             if (c == '(' || c == '{' || c == '[')
             {
@@ -19,7 +20,7 @@ public:
             }
             else
             {
-                if (!stack.empty() && stack.top() == hashMap[c])
+                if (!stack.empty() && stack.top() == bracketMap[c])
                 {
                     stack.pop();
                 }
