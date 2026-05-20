@@ -1,9 +1,10 @@
 // https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+
 // Definition for a binary tree node.
 struct TreeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
+    TreeNode* left;
+    TreeNode* right;
     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
 };
 

@@ -2,7 +2,7 @@
 
 namespace LeetCodePractice.InvertBinaryTree
 {
-    //Definition for a binary tree node.
+    // Definition for a binary tree node.
     public class TreeNode
     {
         public int val;
