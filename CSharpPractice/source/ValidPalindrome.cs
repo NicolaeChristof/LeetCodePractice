@@ -1,5 +1,4 @@
 ﻿// https://leetcode.com/problems/valid-palindrome
-using System.Collections.Generic;
 
 namespace LeetCodePractice.ValidPalindrome
 {
