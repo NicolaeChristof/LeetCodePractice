@@ -10,17 +10,17 @@ public:
 
         int lowestPrice = prices[0];
         int maxProfit = 0;
-        for (int i = 1; i < prices.size(); ++i)
+        for (const int price : prices)
         {
-            if (prices[i] < lowestPrice)
+            if (price < lowestPrice)
             {
-                lowestPrice = prices[i];
+                lowestPrice = price;
                 continue;
             }
 
-            if (prices[i] - lowestPrice > maxProfit)
+            if (price - lowestPrice > maxProfit)
             {
-                maxProfit = prices[i] - lowestPrice;
+                maxProfit = price - lowestPrice;
             }
         }
 
