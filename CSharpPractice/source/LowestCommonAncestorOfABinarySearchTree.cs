@@ -1,10 +1,10 @@
 ﻿// https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
-using LeetCodePractice.InvertBinaryTree;
 
 namespace LeetCodePractice.LowestCommonAncestorOfABinarySearchTree
 {
     // Definition for a binary tree node.
-    public class TreeNode {
+    public class TreeNode
+    {
         public int val;
         public TreeNode left;
         public TreeNode right;
