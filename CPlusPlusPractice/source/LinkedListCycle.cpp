@@ -1,6 +1,8 @@
 // https://leetcode.com/problems/linked-list-cycle
+
 // Definition for singly-linked list.
-struct ListNode {
+struct ListNode
+{
     int val;
     ListNode *next;
     ListNode(int x) : val(x), next(nullptr) {}
@@ -21,6 +23,7 @@ public:
 
             if (slow == fast) return true;
         }
+
         return false;
     }
 };
